@@ -100,23 +100,23 @@ Use the backend API at http://localhost:5000/api.
 
 ## Screenshots
 
-**\#\#\#\# Home Page**
+**Home Page**
 
 ![Home Page](https://github.com/user-attachments/assets/a2adf1bf-5c3e-4c42-8406-da2e32b05252)
 )  
 
-**\#\#\#\# Add User Page**
+**Add User Page**
 
 ![Add User Page](https://github.com/user-attachments/assets/6168054a-8377-47a5-863a-3e47e140a328)
  
 
 
-**\#\#\#\# Add Book Page**
+**Add Book Page**
 
 ![Add Book Page](https://github.com/user-attachments/assets/04c2c56d-2861-425b-be63-59ef4a27e703)
 
 
-**\#\#\#\# Transactions Page**
+**Transactions Page**
 
 ![Transactions](https://github.com/user-attachments/assets/85cbfd4f-8520-4f14-9b9f-d5f36f3fdf32)
 
