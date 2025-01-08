@@ -103,13 +103,12 @@ Use the backend API at http://localhost:5000/api.
 **Home Page**
 
 ![Home Page](https://github.com/user-attachments/assets/a2adf1bf-5c3e-4c42-8406-da2e32b05252)
-)  
+
 
 **Add User Page**
 
 ![Add User Page](https://github.com/user-attachments/assets/6168054a-8377-47a5-863a-3e47e140a328)
  
-
 
 **Add Book Page**
 
