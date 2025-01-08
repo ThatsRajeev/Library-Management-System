@@ -19,7 +19,7 @@ This project is a CRUD application that allows administrators and users to manag
 * Frontend: React.js
 * Backend: Node.js, Express
 * Database: MongoDB
-* Deployment: [Vercel](https://library-management-system-frontend-theta.vercel.app/) (Backend) and [Vercel](https://library-management-system-backend-mu.vercel.app/) (Frontend)
+* Deployment: [Vercel](https://library-management-system-frontend-theta.vercel.app/) (Frontend) and [Vercel](https://library-management-system-backend-mu.vercel.app/) (Backend)
 
 ## Setup Instructions
 
